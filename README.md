@@ -1,6 +1,6 @@
 # -infotrixs
 <html>
-<p>I have a great opportunity to attend an internship at <h2>infotrixs</h2>, in this internship I will hope to learn new things and create  a project that will be posted in this repository and explore more about advanced concepts in Java 
+<p>I have a great opportunity to attend an internship at <h2>infotrixs</h2> In this internship ,I will hope to learn new things and create  a project that will be posted in this repository and explore more about advanced concepts in Java 
 </p>
 <h2>Java Developer Internship</h2>
 <h3>My task 1:</h3> 
